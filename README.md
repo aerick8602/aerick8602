@@ -43,7 +43,7 @@ cutting-edge projects and deliver exceptional customer experiences.</p>
   <h2 style="color: white;">⚡ Stats ⚡</h2>
   <br>
     <div style="clear: both;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aerick8602&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="aerick8602" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aerick8602&background=transparent&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="aerick8602" />
   <div>
 </div>
 
