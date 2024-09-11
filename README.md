@@ -35,7 +35,7 @@ cutting-edge projects and deliver exceptional customer experiences.</p>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,notion,html,css,vscode,github,figma,tailwind,typescript" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,postman,express,netlify,mongodb,c,mysql,vercel,git,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,postman,express,netlify,mongodb,c,mysql,vercel,git,nextjs,cpp" /><br>
 </div>
 
 
