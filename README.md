@@ -34,8 +34,8 @@ cutting-edge projects and deliver exceptional customer experiences.</p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,notion,html,css,vscode,github,figma,tailwind,typescript" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,postman,express,netlify,mongodb,c,mysql,vercel,git,nextjs,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,notion,html,css,vscode,github,figma,tailwind,typescript,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,postman,express,netlify,mongodb,c,mysql,vercel,git,nextjs,cpp,postgresql" /><br>
 </div>
 
 
