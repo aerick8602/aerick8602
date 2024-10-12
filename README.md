@@ -104,15 +104,20 @@ cutting-edge projects and deliver exceptional customer experiences.</p>
  
  
 
-
-
 <div align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
   <h2 style="color: white;">⚡ Stats ⚡</h2>
   <br>
-    <div style="clear: both;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aerick8602&background=transparent&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="aerick8602" />
-  <div>
+  <div style="clear: both;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aerick8602&background=transparent&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="aerick8602" width="500" />
+  </div>
+  <br>
+  <div style="clear: both;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerick8602&langs_count=8&layout=compact&bg_color=0D1117&text_color=FFFFFF&card_width=500" alt="Top Langs" />
+  </div>
 </div>
+
+
+
 
 
 
