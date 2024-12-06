@@ -1,6 +1,6 @@
 ![Masterheader](./Header.png)
 
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aerick8602.aerick8602" /> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aerick8602.aerick8602" /> 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Katiyar😁!!;" />
@@ -13,7 +13,7 @@ cutting-edge projects and deliver exceptional customer experiences.</p>
 <br/>
  <div align="center">
      
-  🔭 I’m currently working on an **e-commerce website** named <a href="https://www.amritam.co/" target="_blank">**Amritam**</a> <br>
+  🔭 I’m currently working on **ReferralHub**, a platform to assist users in securing job referrals. <br>
   🌱 I’m currently learning **DSA, DBMS, REST APIs, MERN**
 </div>
  <br/>
@@ -25,7 +25,11 @@ cutting-edge projects and deliver exceptional customer experiences.</p>
   <a href="https://x.com/katiyarayush02" target="_blank">
      <img src="https://img.shields.io/badge/X-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+  <a href="https://portfolio-desr.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-0d6efd?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank" />
+  </a>
 </div>
+
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -101,24 +105,11 @@ cutting-edge projects and deliver exceptional customer experiences.</p>
   </tr>
 </table>
 
- 
- 
-
 <div align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
   <h2 style="color: white;">⚡ Stats ⚡</h2>
   <br>
-<!--   <div style="clear: both;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aerick8602&background=transparent&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="aerick8602" width="500" />
-  </div> -->
-  <br>
-  <div style="clear: both;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerick8602&langs_count=8&layout=compact&bg_color=0D1117&text_color=FFFFFF&card_width=500" alt="Top Langs" />
+  <div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=aerick8602&theme=github_dark&show_icons=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aerick8602&theme=github_dark&count_private=true&layout=compact" />
   </div>
 </div>
-
-
-
-
-
-
-
