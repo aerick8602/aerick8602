@@ -25,8 +25,8 @@ cutting-edge projects and deliver exceptional customer experiences.</p>
   <a href="https://x.com/katiyarayush02" target="_blank">
      <img src="https://img.shields.io/badge/X-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-  <a href="https://portfolio-desr.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-0d6efd?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank" />
+ <a href="https://portfolio-desr.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/My_Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
 </div>
 
