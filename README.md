@@ -11,11 +11,11 @@
 cutting-edge projects and deliver exceptional customer experiences.</p>
 
 <br/>
- <div align="center">
-     
-  🔭 I’m currently working on **ReferralShala**, a platform to assist users in securing job referrals. <br>
-  🌱 I’m currently learning **DSA, DBMS, REST APIs, MERN**
+<div align="center">
+  🔭 I’m currently working on <strong><a href="https://referralshala.vercel.app/" target="_blank">ReferralShala</a></strong>, a platform designed to assist users in securing job referrals. <br>
+  🌱 I’m currently learning <strong>Data Structures and Algorithms (DSA), Database Management Systems (DBMS), REST APIs, and the MERN stack</strong>.
 </div>
+
  <br/>
 <div align="center"> 
 
