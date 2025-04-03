@@ -79,7 +79,7 @@ Meanwhile, I'm also juggling with:<br>
           <div style="flex: 1; position: relative; min-height: 100px;">
             <p style="margin: 0 0 15px 0;">An interactive algorithm visualizer simplifying complex concepts with real-time simulations.</p>
             <div style="position: absolute; bottom: 0; right: 0;">
-              <a href="https://github.com/aerick8602/Visulax" target="_blank">
+              <a href="https://github.com/aerick8602/Visulax_2.0" target="_blank">
                 <img src="https://img.shields.io/badge/%3C%2F%3E_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
               </a>
             </div>
@@ -132,7 +132,7 @@ Meanwhile, I'm also juggling with:<br>
           <div style="flex: 1; position: relative; min-height: 100px;">
             <p style="margin: 0 0 15px 0;">A digital bookshelf for managing and sharing eBooks with seamless CRUD operations.</p>
             <div style="position: absolute; bottom: 0; right: 0;">
-              <a href="https://github.com/aerick8602/eBookHaven" target="_blank">
+              <a href="https://github.com/aerick8602/eBook-Haven" target="_blank">
                 <img src="https://img.shields.io/badge/%3C%2F%3E_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
               </a>
             </div>
