@@ -27,6 +27,14 @@ If you have any idea that makes things faster, smarter, or just ridiculously coo
   </a>
 </p>
 
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,notion,html,css,vscode,github,figma,tailwind,typescript,prisma" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,postman,express,netlify,npm,mongodb,c,mysql,vercel,git,nextjs,cpp,postgresql" />
+</p>
+
+
 <h2  align="center">🌱 My Learning Journey: Building, Breaking, Scaling, Fixing, and Innovating</h2>
 <div align="center">
 🔭 I'm currently working on <strong>CloudHive</strong>, a platform that integrates multiple cloud storage accounts (Google Drive, OneDrive, and more) into a seamless and unified storage space. It aims to provide users with a larger, aggregated storage solution with full cloud drive functionality - because 15GB just isn’t enough.<br><br>
@@ -41,12 +49,6 @@ Meanwhile, I'm also juggling with:<br>
 <div>Always building, always breaking, and somehow making it work. 🚀</div>
 
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,notion,html,css,vscode,github,figma,tailwind,typescript,prisma" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,postman,express,netlify,npm,mongodb,c,mysql,vercel,git,nextjs,cpp,postgresql" />
-</p>
 
 <h2 align="center">📂 My Projects 📂</h2>
 
