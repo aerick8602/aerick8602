@@ -22,7 +22,7 @@ If you have any idea that makes things faster, smarter, or just ridiculously coo
   <a href="https://portfolio-desr.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:ayushkatiyar8602@gmail.com" target="_blank">
+  <a href="mailto:katiyarayush02@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
