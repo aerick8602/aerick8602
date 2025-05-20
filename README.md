@@ -56,7 +56,23 @@ Meanwhile, I'm also juggling with:<br>
   <table align="center" style="border-collapse: separate; border-spacing: 15px;">
     <!-- Row 1 -->
     <tr>
-      <!-- ReferralShala -->
+      <!-- CloudHive -->
+      <td style="padding: 15px; background: #161b22; border-radius: 10px; width: 50%;">
+        <div style="display: flex; gap: 15px;">
+          <a href="https://cloud-hive-app.vercel.app/" target="_blank">
+         <img src="https://img.shields.io/badge/CloudHive-00FFFF?style=for-the-badge&logo=googledrive" />
+          </a>
+          <div style="flex: 1; position: relative; min-height: 100px;">
+           <p style="margin: 0 0 15px 0;">A unified cloud workspace that connects and manages all your drive accounts in one seamless platform.</p>
+            <div style="position: absolute; bottom: 0; right: 0;">
+              <a href="https://github.com/aerick8602/CloudHive" target="_blank">
+                <img src="https://img.shields.io/badge/%3C%2F%3E_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </td>
+       <!-- ReferralShala -->
       <td style="padding: 15px; background: #161b22; border-radius: 10px; width: 50%;">
         <div style="display: flex; gap: 15px;">
           <a href="https://referralshala.vercel.app/" target="_blank">
