@@ -60,10 +60,10 @@ Meanwhile, I'm also juggling with:<br>
       <td style="padding: 15px; background: #161b22; border-radius: 10px; width: 50%;">
         <div style="display: flex; gap: 15px;">
           <a href="https://cloud-hive-app.vercel.app/" target="_blank">
-         <img src="https://img.shields.io/badge/CloudHive-00FFFF?style=for-the-badge&logo=googledrive" />
+            <img src="https://img.shields.io/badge/CloudHive-00FFFF?style=for-the-badge&logo=googledrive" />
           </a>
           <div style="flex: 1; position: relative; min-height: 100px;">
-           <p style="margin: 0 0 15px 0;">A unified cloud workspace that connects and manages all your drive accounts in one seamless platform.</p>
+            <p style="margin: 0 0 15px 0;">A unified cloud workspace that connects and manages all your drive accounts in one seamless platform.</p>
             <div style="position: absolute; bottom: 0; right: 0;">
               <a href="https://github.com/aerick8602/CloudHive" target="_blank">
                 <img src="https://img.shields.io/badge/%3C%2F%3E_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -72,7 +72,7 @@ Meanwhile, I'm also juggling with:<br>
           </div>
         </div>
       </td>
-       <!-- ReferralShala -->
+      <!-- ReferralShala -->
       <td style="padding: 15px; background: #161b22; border-radius: 10px; width: 50%;">
         <div style="display: flex; gap: 15px;">
           <a href="https://referralshala.vercel.app/" target="_blank">
@@ -88,6 +88,9 @@ Meanwhile, I'm also juggling with:<br>
           </div>
         </div>
       </td>
+    </tr>
+    <!-- Row 2 -->
+    <tr>
       <!-- Visulax -->
       <td style="padding: 15px; background: #161b22; border-radius: 10px; width: 50%;">
         <div style="display: flex; gap: 15px;">
@@ -104,11 +107,8 @@ Meanwhile, I'm also juggling with:<br>
           </div>
         </div>
       </td>
-    </tr>
-    <!-- Row 2 -->
-    <tr>
       <!-- iNotePad -->
-      <td style="padding: 15px; background: #161b22; border-radius: 10px;">
+      <td style="padding: 15px; background: #161b22; border-radius: 10px; width: 50%;">
         <div style="display: flex; gap: 15px;">
           <a href="https://inotepadv1.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/iNotePad-9C27B0?style=for-the-badge&logo=notion&logoColor=white" />
@@ -123,8 +123,11 @@ Meanwhile, I'm also juggling with:<br>
           </div>
         </div>
       </td>
+    </tr>
+    <!-- Row 3 -->
+    <tr>
       <!-- NewsApp -->
-      <td style="padding: 15px; background: #161b22; border-radius: 10px;">
+      <td style="padding: 15px; background: #161b22; border-radius: 10px; width: 50%;">
         <div style="display: flex; gap: 15px;">
           <a href="https://news143.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/News@pp-3F51B5?style=for-the-badge&logo=newspaper&logoColor=white" />
@@ -139,10 +142,8 @@ Meanwhile, I'm also juggling with:<br>
           </div>
         </div>
       </td>
-    </tr>
-    <!-- Row 3 (eBookHaven centered) -->
-    <tr>
-      <td colspan="2" style="padding: 15px; background: #161b22; border-radius: 10px;">
+      <!-- eBookHaven -->
+      <td style="padding: 15px; background: #161b22; border-radius: 10px; width: 50%;">
         <div style="display: flex; gap: 15px;">
           <a href="https://ebookhaven.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/eBookHaven-FF5722?style=for-the-badge&logo=bookstack&logoColor=white" />
